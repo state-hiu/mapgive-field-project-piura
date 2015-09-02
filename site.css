@@ -157,45 +157,10 @@ input[type='submit'],
   background-repeat: no-repeat;
   }
 
-  .sponsor.natgeo        { background-image: url(img/logos/natgeo.jpg); width: 311px; height: 126px;}
-  .sponsor.hot           { background-image: url(img/logos/HOT.png); width: 259px; height: 60px;}
   .sponsor.mapgive       { background-image: url(img/logos/mapgive.png); width: 218px; height: 56px;}
-  .sponsor.osmus         { background-image: url(img/logos/osmus.png); width: 275px; height: 127px; }
-  .sponsor.missingmaps   { background-image: url(img/logos/missingmaps.png); width: 218px; height: 86px; }
-  .sponsor.usaid         { background-image: url(img/logos/usaid.png); width: 218px; height: 56px; }
-  .sponsor.kll           { background-image: url(img/logos/kll.jpg); width: 147px; height: 100px; }
-  /* Diamond */
-  .sponsor.craigslist    { background-position:-520px 0; }
+  .sponsor.unsaac        { background-image: url(img/logos/escudo.jpg); width: 117px; height: 150px; }
+  .sponsor.secondary        { background-image: url(img/logos/SecondaryCitiesLogo.png); width: 200px; height: 102px; }
 
-  /* Gold */
-  .sponsor.mapbox        { background-position:-360px 0; }
-  .sponsor.google        { background-position:-200px -300px; }
-  .sponsor.mapzen        { background-position:-125px -300px; width:80px; }
-  .sponsor.telnav        { background-position:-40px -300px; width:80px; }
-  .sponsor.maplarge      { background-position:-40px -235px; }
-
-  /* Silver */
-  .sponsor.rackspace     { background-position:-520px -180px; }
-  .sponsor.indaba        { background-position:-360px -60px; }
-  .sponsor.amazon        { background-position:-360px -120px; }
-  .sponsor.digital-globe { background-position:-360px -180px; }
-  .sponsor.maply         { background-position:-360px -240px; }
-  .sponsor.boundless     { background-position:-200px -240px; }
-  .sponsor.esri          { background-position:-360px -300px; }
-
-  /* Bronze */
-  .sponsor.small         { width:100px; height:40px; margin-right:10px }
-  .sponsor.stamen        { background-position:-680px 0; }
-  .sponsor.deloitte      { background-position:-680px -80px; }
-  .sponsor.red-cross     { background-position:-680px -120px; }
-  .sponsor.aw            { background-position:-680px -160px; width:60px; }
-  .sponsor.cartodb       { background-position:-680px -240px; }
-  .sponsor.foursquare    { background-position:-680px -280px; }
-
-  .sponsor.knight        { background-position:-520px -120px; }
-  .sponsor.urban-mapping { background-position:-520px -240px; }
-  .sponsor.devseed       { background-position:-520px -300px; }
-  .sponsor.github       { background-position:-680px -320px; }
 
 /* Venue marker navigation
 ---------------------------------------------- */
