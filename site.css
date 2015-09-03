@@ -160,6 +160,7 @@ input[type='submit'],
   .sponsor.mapgive       { background-image: url(img/logos/mapgive.png); width: 218px; height: 56px;}
   .sponsor.unsaac        { background-image: url(img/logos/escudo.jpg); width: 117px; height: 150px; }
   .sponsor.secondary        { background-image: url(img/logos/SecondaryCitiesLogo.png); width: 200px; height: 102px; }
+  .sponsor.mapbox       { background-image: url(img/logos/mapbox.jpg); width: 160px; height: 160px; }
 
 
 /* Venue marker navigation

@@ -10,20 +10,55 @@ published: true
   </div>
 </div>
 
+<br/>
+
+<div class='fill-blue'>
+  <div class='liner clearfix center dark col12'>
+    <h2 class='pad2'><a href="{{site.baseurl}}/files/Programa.docx">Programa</a></h2>
+  </div>
+</div>
+
+<br/>
+
+<div class='fill-blue'>
+  <div class='liner clearfix center dark col12'>
+    <h2 class='pad2'><a href="{{site.baseurl}}/files/OSM-handout.pdf">OSM Handout</a></h2>
+  </div>
+</div>
+
+<br/>
+
+<div class='fill-blue'>
+  <div class='liner clearfix center dark col12'>
+    <h2 class='pad2'><a href="{{site.baseurl}}/files/OMK.docx">OpenMapKit</a></h2>
+  </div>
+</div>
+
+<br/>
+
+<div class='fill-blue'>
+  <div class='liner clearfix center dark col12'>
+    <h2 class='pad2'><a href="{{site.baseurl}}/files/LearnOSM-FieldPapers.pdf">FieldPapers</a></h2>
+  </div>
+</div>
+
+<br/>
+
+<div class='fill-blue'>
+  <div class='liner clearfix center dark col12'>
+    <h2 class='pad2'><a href="{{site.baseurl}}/files/Extraer_Data_desde_OpenStreetMap.docx">Extraer Data desde OpenStreetMap</a></h2>
+  </div>
+</div>
+
+<br/>
+
+<div class='fill-blue'>
+  <div class='liner clearfix center fill-darken3 dark col12'>
+    <h2 class='pad2'>Presentations and Videos</h2>
+  </div>
+</div>
 
 <div class='limiter pad4y clearfix'>
-
-<h1>Handouts</h1>
-
-<h2>
-<ul>
-<li><a href="{{site.baseurl}}/files/Programa.docx">Programa</a></li>
-<li><a href="{{site.baseurl}}/files/OSM-handout.pdf">OSM Handout</a></li>
-<li><a href="{{site.baseurl}}/files/OMK.docx">OpenMapKit</a></li>
-<li><a href="{{site.baseurl}}/files/LearnOSM-FieldPapers.pdf">FieldPapers</a></li>
-<li><a href="{{site.baseurl}}/files/Extraer_Data_desde_OpenStreetMap.docx">Extraer Data desde OpenStreetMap</a></li>
-</ul>
-</h2>
 
 <h2>Introduction to OpenStreetMap</h2>
 
