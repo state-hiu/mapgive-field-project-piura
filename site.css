@@ -5,7 +5,7 @@
 .fill-lightblue { background-color:#d7f0f6; }
 .fill-dark { background-color:#202020; }
 .fill-brown { background-color:#d7a64a; }
-.fill-green { background-color:#8cc250; }
+.fill-green { background-color:#d73f3f; }
 
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Kreon', serif;
@@ -160,6 +160,7 @@ input[type='submit'],
   .sponsor.natgeo        { background-image: url(img/logos/natgeo.jpg); width: 311px; height: 126px;}
   .sponsor.hot           { background-image: url(img/logos/HOT.png); width: 259px; height: 60px;}
   .sponsor.mapgive       { background-image: url(img/logos/mapgive.png); width: 218px; height: 56px;}
+  .sponsor.piura         { background-image: url(img/logos/piura.png); width: 218px; height: 87px;}
   .sponsor.osmus         { background-image: url(img/logos/osmus.png); width: 275px; height: 127px; }
   .sponsor.missingmaps   { background-image: url(img/logos/missingmaps.png); width: 218px; height: 86px; }
   .sponsor.usaid         { background-image: url(img/logos/usaid.png); width: 218px; height: 56px; }
