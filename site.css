@@ -2,6 +2,8 @@
 ---------------------------------------------- */
 .space > * { margin-right:10px; }
 .fill-blue { background-color:#31b2d0; }
+.fill-light-blue { background-color:#9bcaff; }
+.fill-light-green { background-color:#ACBFBD; }
 .fill-lightblue { background-color:#d7f0f6; }
 .fill-dark { background-color:#202020; }
 .fill-brown { background-color:#d7a64a; }

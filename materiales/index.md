@@ -14,7 +14,7 @@ published: true
 
 <div class='fill-blue'>
   <div class='liner clearfix center dark col12'>
-    <h2 class='pad2'><a href="{{site.baseurl}}/files/Programa.docx">Programa</a></h2>
+    <h2 class='pad2'><a href="{{site.baseurl}}/files/PiuraPrograma.pdf">Programa</a></h2>
   </div>
 </div>
 
@@ -22,7 +22,7 @@ published: true
 
 <div class='fill-blue'>
   <div class='liner clearfix center dark col12'>
-    <h2 class='pad2'><a href="{{site.baseurl}}/files/OSM-handout.pdf">OSM Handout</a></h2>
+    <h2 class='pad2'><a href="https://tasks.hotosm.org/project/1369">Proyecto de Mapeo de Piura</a></h2>
   </div>
 </div>
 
@@ -30,7 +30,7 @@ published: true
 
 <div class='fill-blue'>
   <div class='liner clearfix center dark col12'>
-    <h2 class='pad2'><a href="{{site.baseurl}}/files/OMK.docx">OpenMapKit</a></h2>
+    <h2 class='pad2'><a href="https://github.com/AmericanRedCross/OpenMapKitAndroid/wiki/Gu%C3%ADa-de-Piura,-Peru">OpenMapKit</a></h2>
   </div>
 </div>
 
@@ -38,7 +38,7 @@ published: true
 
 <div class='fill-blue'>
   <div class='liner clearfix center dark col12'>
-    <h2 class='pad2'><a href="{{site.baseurl}}/files/LearnOSM-FieldPapers.pdf">FieldPapers</a></h2>
+    <h2 class='pad2'><a href="{{site.baseurl}}/files/field-papers-es.pdf">FieldPapers</a></h2>
   </div>
 </div>
 
@@ -46,7 +46,37 @@ published: true
 
 <div class='fill-blue'>
   <div class='liner clearfix center dark col12'>
-    <h2 class='pad2'><a href="{{site.baseurl}}/files/Extraer_Data_desde_OpenStreetMap.docx">Extraer Data desde OpenStreetMap</a></h2>
+    <h2 class='pad2'><a href="{{site.baseurl}}/files/mapillary_documento.pdf">Mapillary</a></h2>
+  </div>
+</div>
+
+<br/>
+
+<div class='fill-blue'>
+  <div class='liner clearfix center dark col12'>
+    <h2 class='pad2'><a href="http://hotosm.github.io/tracing-guides/guide/piura-espanol-josm-part1.html">Piura: JOSM, Guia Parte I</a></h2>
+  </div>
+</div>
+
+<div class='fill-blue'>
+  <div class='liner clearfix center dark col12'>
+    <h2 class='pad2'><a href="http://hotosm.github.io/tracing-guides/guide/piura-espanol-josm-part2.html">Piura: JOSM, Guia Parte II</a></h2>
+  </div>
+</div>
+
+<br/>
+
+<div class='fill-blue'>
+  <div class='liner clearfix center dark col12'>
+    <h2 class='pad2'><a href="{{site.baseurl}}/files/Extraer_Data_desde_OSM.pdf">Extraer Data desde OpenStreetMap</a></h2>
+  </div>
+</div>
+
+<br/>
+
+<div class='fill-blue'>
+  <div class='liner clearfix center dark col12'>
+    <h2 class='pad2'><a href="{{site.baseurl}}/files/GuiaMapa1.pdf">Guia de Mapa de MapBox</a></h2>
   </div>
 </div>
 
