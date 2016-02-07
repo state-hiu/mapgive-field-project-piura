@@ -5,7 +5,7 @@
 .fill-lightblue { background-color:#d7f0f6; }
 .fill-dark { background-color:#202020; }
 .fill-brown { background-color:#d7a64a; }
-.fill-green { background-color:#8cc250; }
+.fill-green { background-color:#d73f3f; }
 
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Kreon', serif;
@@ -158,10 +158,43 @@ input[type='submit'],
   }
 
   .sponsor.mapgive       { background-image: url(img/logos/mapgive.png); width: 218px; height: 56px;}
-  .sponsor.unsaac        { background-image: url(img/logos/escudo.jpg); width: 117px; height: 150px; }
-  .sponsor.secondary        { background-image: url(img/logos/SecondaryCitiesLogo.png); width: 200px; height: 102px; }
-  .sponsor.mapbox       { background-image: url(img/logos/mapbox.jpg); width: 160px; height: 160px; }
+  .sponsor.piura         { background-image: url(img/logos/piura.png); width: 218px; height: 87px;}
+  .sponsor.osmus         { background-image: url(img/logos/osmus.png); width: 275px; height: 127px; }
+  .sponsor.missingmaps   { background-image: url(img/logos/missingmaps.png); width: 218px; height: 86px; }
+  .sponsor.usaid         { background-image: url(img/logos/usaid.png); width: 218px; height: 56px; }
+  .sponsor.kll           { background-image: url(img/logos/kll.jpg); width: 147px; height: 100px; }
+  /* Diamond */
+  .sponsor.craigslist    { background-position:-520px 0; }
 
+  /* Gold */
+  .sponsor.mapbox        { background-position:-360px 0; }
+  .sponsor.google        { background-position:-200px -300px; }
+  .sponsor.mapzen        { background-position:-125px -300px; width:80px; }
+  .sponsor.telnav        { background-position:-40px -300px; width:80px; }
+  .sponsor.maplarge      { background-position:-40px -235px; }
+
+  /* Silver */
+  .sponsor.rackspace     { background-position:-520px -180px; }
+  .sponsor.indaba        { background-position:-360px -60px; }
+  .sponsor.amazon        { background-position:-360px -120px; }
+  .sponsor.digital-globe { background-position:-360px -180px; }
+  .sponsor.maply         { background-position:-360px -240px; }
+  .sponsor.boundless     { background-position:-200px -240px; }
+  .sponsor.esri          { background-position:-360px -300px; }
+
+  /* Bronze */
+  .sponsor.small         { width:100px; height:40px; margin-right:10px }
+  .sponsor.stamen        { background-position:-680px 0; }
+  .sponsor.deloitte      { background-position:-680px -80px; }
+  .sponsor.red-cross     { background-position:-680px -120px; }
+  .sponsor.aw            { background-position:-680px -160px; width:60px; }
+  .sponsor.cartodb       { background-position:-680px -240px; }
+  .sponsor.foursquare    { background-position:-680px -280px; }
+
+  .sponsor.knight        { background-position:-520px -120px; }
+  .sponsor.urban-mapping { background-position:-520px -240px; }
+  .sponsor.devseed       { background-position:-520px -300px; }
+  .sponsor.github       { background-position:-680px -320px; }
 
 /* Venue marker navigation
 ---------------------------------------------- */
